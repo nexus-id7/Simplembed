@@ -17,6 +17,14 @@
 * <a href="https://www.java.com/en/">Java</a>
 * <a href="https://www.python.org/downloads/">Python3</a>
 
+# Installer
+```
+apt install git
+git clone https://github.com/nexus-id7/Simplembed.git
+cd Simplembed
+python3 droidvil.py
+```
+
 # Support script
 * Only termux v177
 * <a href="https://f-droid.org/repo/com.termux_117.apk">Download termux</a>
